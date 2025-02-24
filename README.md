@@ -20,7 +20,7 @@ This is a minimalist library demonstrating the basic use of Scapy for ARP spoofi
 Clone the repository and set up a virtual environment:
 
 ```sh
-git clone https://etc...
+git clone https://github.com/floheb/arp_spoof
 cd arp_spoof
 python -m venv env
 source env/bin/activate 
