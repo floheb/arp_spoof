@@ -1,0 +1,7 @@
+{
+    "ip_target": "192.168.1.10",
+    "mac_target": "AA:BB:CC:DD:EE:FF",
+    "ip_gateway": "192.168.1.1",
+    "mac_gateway": "AA:BB:CC:DD:EE:FF",
+    "interface": "wlan0"
+}
